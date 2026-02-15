@@ -29,6 +29,18 @@
        color: #333;
        margin-bottom: 1rem;
    }
+   /* About Section by Raka */ 
+#about { 
+background: #f4f4f4; 
+padding: 2rem; 
+margin-top: 2rem; 
+border-radius: 8px; 
+} 
+
+#about h3 { 
+color: #333; 
+margin-bottom: 1rem; 
+} 
 
    /* Styling khusus profil - by Haekal */
 

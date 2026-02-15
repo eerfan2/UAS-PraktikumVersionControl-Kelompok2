@@ -53,3 +53,12 @@ main p strong {
   display: inline-block;
   width: 100px;
 }
+
+/* Footer by Kiki */ 
+footer { 
+background: #333; 
+color: #fff;  
+text-align: center; 
+padding: 1rem; 
+margin-top: 2rem; 
+}

@@ -29,3 +29,15 @@
        color: #333;
        margin-bottom: 1rem;
    }
+
+   /* Styling khusus profil - by Haekal */
+
+main p {
+  margin-bottom: 0.5rem;
+}
+
+main p strong {
+  color: #333;
+  display: inline-block;
+  width: 100px;
+}
